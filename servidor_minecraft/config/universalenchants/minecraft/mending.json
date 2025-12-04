@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "spell_engine:spell_infinity",
+    "dungeonnowloading:break_protection"
+  ]
+}

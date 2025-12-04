@@ -1,0 +1,41 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:breakable"
+  ],
+  "incompatible": [
+    "minecraft:piercing",
+    "minecraft:flame",
+    "mcdw:burst_bowstring",
+    "spell_power:sunfire",
+    "mcdw:multi_shot",
+    "mcdw:dipping_poison",
+    "mcdw:levitation_shot",
+    "spell_power:soulfrost",
+    "mcdw:overcharge",
+    "mcdw:void_shot",
+    "mcdw:wild_rage",
+    "spell_power:spell_power",
+    "minecraft:punch",
+    "mcdw:ricochet",
+    "minecraft:power",
+    "mcdw:growing",
+    "mcdw:phantoms_mark",
+    "mcdw:shadow_shot",
+    "minecraft:infinity",
+    "mcdw:dynamo",
+    "mcdw:chain_reaction",
+    "mcdw:charge",
+    "mcdw:shadow_barb",
+    "minecraft:quick_charge",
+    "supplementaries:stasis",
+    "mcdw:accelerate",
+    "mcdw:replenish",
+    "mcdw:cobweb_shot",
+    "minecraft:multishot",
+    "mcdw:bonus_shot",
+    "mcdw:fuse_shot",
+    "mcdw:tempo_theft",
+    "create:potato_recovery"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "mcdw:bonus_shot",
+    "spell_power:energize",
+    "spell_power:sunfire",
+    "supplementaries:stasis",
+    "mcdw:accelerate",
+    "spell_power:critical_chance",
+    "spell_power:haste",
+    "spell_power:soulfrost",
+    "spell_power:spell_power",
+    "spell_power:critical_damage"
+  ]
+}

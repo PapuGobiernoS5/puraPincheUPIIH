@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon"
+  ],
+  "incompatible": [
+    "mcdw:gravity",
+    "mcdw:echo",
+    "mcdw:thundering",
+    "mcdw:weakening",
+    "mcdw:exploding",
+    "mcdw:swirling",
+    "mcdw:leeching",
+    "mcdw:smiting",
+    "mcdw:anima_conduit",
+    "mcdw:shockwave",
+    "mcdw:chains",
+    "mcdw:poison_cloud"
+  ]
+}

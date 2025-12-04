@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "mcdw:gravity",
+    "spell_power:energize",
+    "mcdw:echo",
+    "spell_power:sunfire",
+    "mcdw:weakening",
+    "mcdw:exploding",
+    "mcdw:swirling",
+    "spell_power:critical_chance",
+    "mcdw:smiting",
+    "spell_power:soulfrost",
+    "spell_power:spell_power",
+    "mcdw:poison_cloud",
+    "mcdw:thundering",
+    "spell_power:haste",
+    "mcdw:shockwave",
+    "mcdw:chains",
+    "spell_power:critical_damage"
+  ]
+}

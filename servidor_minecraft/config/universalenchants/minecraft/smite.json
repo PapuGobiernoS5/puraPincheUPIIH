@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "mcdw:illagers_bane",
+    "minecraft:impaling",
+    "minecraft:bane_of_arthropods",
+    "mcdw:smiting",
+    "mcdw:void_strike",
+    "mcdw:enigma_resonator"
+  ]
+}
